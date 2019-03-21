@@ -3,7 +3,7 @@
 
 .. moduleauthor:: Martí Congost <marti.congost@whads.com>
 """
-from . import settings, admin
+from . import videoplayersettings, settings, admin
 from .vimeovideo import VimeoVideo
 from .vimeovideorenderer import VimeoVideoRenderer
 from .installation import install
